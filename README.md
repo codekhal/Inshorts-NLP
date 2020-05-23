@@ -1,4 +1,5 @@
 # Inshorts-NLP
+
 Analysed syntax and Semantics of Corpus of Text Documents Retrived from Web Scraping of News articles from Inshorts and followed the Standard NLP Workflow of the CRISP-DM model.
 
 
@@ -9,3 +10,4 @@ The models stored in the backend are trained on labelled Inshorts news data star
 
 # - Accuracy
 The combined accuracy of the two models is 80% approximately.
+Analysed syntax and Semantics of Corpus of Text Documents Retrieved from Web Scraping of News articles from Inshorts and followed the Standard NLP Workflow of the CRISP-DM model.
